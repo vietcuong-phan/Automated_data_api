@@ -411,7 +411,7 @@ This platform helps internal users:
 
 # Author
 
-Cuong Phann
+Cuong (Charles) Phan Viet
 
-LinkedIn: _Add your LinkedIn here_  
-GitHub: _Add your GitHub here_
+LinkedIn: https://www.linkedin.com/in/vietcuongphan09/
+GitHub: https://github.com/vietcuong-phan
