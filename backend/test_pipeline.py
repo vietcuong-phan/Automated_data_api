@@ -1,0 +1,3 @@
+from app.services.sales_pipeline import generate_daily_sales_report
+
+generate_daily_sales_report()
