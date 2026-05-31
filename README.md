@@ -407,11 +407,3 @@ This platform helps internal users:
 - Scheduler Automation
 - Git/GitHub Workflow
 
----
-
-# Author
-
-Cuong (Charles) Phan Viet
-
-LinkedIn: https://www.linkedin.com/in/vietcuongphan09/
-GitHub: https://github.com/vietcuong-phan
