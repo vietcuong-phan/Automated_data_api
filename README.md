@@ -371,20 +371,6 @@ git push -u origin main
 
 ---
 
-# Screenshots
-
-## FastAPI Swagger UI
-
-_Add screenshot here_
-
----
-
-## React Dashboard
-
-_Add screenshot here_
-
----
-
 # Business Value
 
 This platform helps internal users:
